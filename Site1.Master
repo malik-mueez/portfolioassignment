@@ -134,9 +134,9 @@
                     <div class="footer-text wow fadeInUp" data-wow-delay="0.3s">
                         <div class="social-links">
                             <ul>
-                                <li><a href="https://web.facebook.com/malik.devil308"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/mueez_rehman"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/malik-mueez-ur-rehman-442979104/"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://web.facebook.com/malik.devil308"><i class="fa fa-facebook" tooltip="Facebook"></i></a></li>
+                                <li><a href="https://twitter.com/mueez_rehman"><i class="fa fa-twitter" tooltip="Twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/malik-mueez-ur-rehman-442979104/" tooltip="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                 
                             </ul>
                         </div>
